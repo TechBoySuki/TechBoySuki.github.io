@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+#qrcode {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #f90fab;
+    box-shadow: 0 0 10px rgba(24, 163, 205, 0.878);
+}
